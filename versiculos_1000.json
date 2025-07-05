@@ -1,0 +1,560 @@
+[
+    {
+        "book": "Gênesis",
+        "chapter": 1,
+        "verse": 1,
+        "text": "No princípio, criou Deus os céus e a terra."
+    },
+    {
+        "book": "Salmos",
+        "chapter": 23,
+        "verse": 1,
+        "text": "O SENHOR é o meu pastor; nada me faltará."
+    },
+    {
+        "book": "João",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+    },
+    {
+        "book": "Provérbios",
+        "chapter": 3,
+        "verse": 5,
+        "text": "Confia no SENHOR de todo o teu coração e não te estribes no teu próprio entendimento."
+    },
+    {
+        "book": "Mateus",
+        "chapter": 6,
+        "verse": 33,
+        "text": "Mas buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas vos serão acrescentadas."
+    },
+    {
+        "book": "Romanos",
+        "chapter": 8,
+        "verse": 28,
+        "text": "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados por seu decreto."
+    },
+    {
+        "book": "Filipenses",
+        "chapter": 4,
+        "verse": 13,
+        "text": "Posso todas as coisas naquele que me fortalece."
+    },
+    {
+        "book": "Isaías",
+        "chapter": 41,
+        "verse": 10,
+        "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça."
+    },
+    {
+        "book": "Jeremias",
+        "chapter": 29,
+        "verse": 11,
+        "text": "Porque sou eu que conheço os planos que tenho para vocês, diz o SENHOR, planos de fazê-los prosperar e não de causar dano, planos de dar a vocês esperança e um futuro."
+    },
+    {
+        "book": "1 Coríntios",
+        "chapter": 13,
+        "verse": 4,
+        "text": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não trata com leviandade, não se ensoberbece."
+    },
+    {
+        "book": "Hebreus",
+        "chapter": 11,
+        "verse": 1,
+        "text": "Ora, a fé é o firme fundamento das coisas que se esperam e a prova das coisas que se não veem."
+    },
+    {
+        "book": "Apocalipse",
+        "chapter": 21,
+        "verse": 4,
+        "text": "E lhes enxugará dos olhos toda lágrima, e a morte já não existirá, já não haverá luto, nem pranto, nem dor, porque as primeiras coisas já passaram."
+    },
+    {
+        "book": "Salmos",
+        "chapter": 119,
+        "verse": 105,
+        "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho."
+    },
+    {
+        "book": "Efésios",
+        "chapter": 2,
+        "verse": 8,
+        "text": "Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus."
+    },
+    {
+        "book": "João",
+        "chapter": 14,
+        "verse": 6,
+        "text": "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai, senão por mim."
+    },
+    {
+        "book": "Romanos",
+        "chapter": 10,
+        "verse": 9,
+        "text": "Se, com a tua boca, confessares ao Senhor Jesus e, em teu coração, creres que Deus o ressuscitou dos mortos, serás salvo."
+    },
+    {
+        "book": "Gálatas",
+        "chapter": 5,
+        "verse": 22,
+        "text": "Mas o fruto do Espírito é: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade,"
+    },
+    {
+        "book": "1 Pedro",
+        "chapter": 5,
+        "verse": 7,
+        "text": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+    },
+    {
+        "book": "Josué",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Não to mandei eu? Esforça-te e tem bom ânimo; não pasmes, nem te espantes, porque o SENHOR, teu Deus, é contigo, por onde quer que andares."
+    },
+    {
+        "book": "2 Timóteo",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Toda a Escritura é divinamente inspirada e proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça,"
+    },
+    {
+        "book": "Salmos",
+        "chapter": 46,
+        "verse": 1,
+        "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia."
+    },
+    {
+        "book": "Mateus",
+        "chapter": 11,
+        "verse": 28,
+        "text": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+    },
+    {
+        "book": "João",
+        "chapter": 10,
+        "verse": 10,
+        "text": "O ladrão não vem senão a roubar, a matar e a destruir; eu vim para que tenham vida e a tenham com abundância."
+    },
+    {
+        "book": "Salmos",
+        "chapter": 27,
+        "verse": 1,
+        "text": "O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei?"
+    },
+    {
+        "book": "Romanos",
+        "chapter": 12,
+        "verse": 2,
+        "text": "E não vos conformeis com este mundo, mas transformai-vos pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
+    },
+    {
+        "book": "Provérbios",
+        "chapter": 16,
+        "verse": 3,
+        "text": "Entrega as tuas obras ao SENHOR, e os teus pensamentos serão estabelecidos."
+    },
+    {
+        "book": "2 Coríntios",
+        "chapter": 5,
+        "verse": 17,
+        "text": "Assim que, se alguém está em Cristo, nova criatura é: as coisas velhas já passaram; eis que tudo se fez novo."
+    },
+    {
+        "book": "Isaías",
+        "chapter": 53,
+        "verse": 5,
+        "text": "Mas ele foi ferido pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e, pelas suas pisaduras, fomos sarados."
+    },
+    {
+        "book": "Atos",
+        "chapter": 1,
+        "verse": 8,
+        "text": "Mas recebereis a virtude do Espírito Santo, que há de vir sobre vós; e ser-me-eis testemunhas tanto em Jerusalém como em toda a Judeia e Samaria e até aos confins da terra."
+    },
+    {
+        "book": "Hebreus",
+        "chapter": 4,
+        "verse": 12,
+        "text": "Porque a palavra de Deus é viva, e eficaz, e mais penetrante do que qualquer espada de dois gumes, e penetra até à divisão da alma e do espírito, e das juntas e medulas, e é apta para discernir os pensamentos e intenções do coração."
+    },
+    {
+        "book": "Salmos",
+        "chapter": 121,
+        "verse": 1,
+        "text": "Levantarei os meus olhos para os montes, de onde virá o meu socorro?"
+    },
+    {
+        "book": "Lucas",
+        "chapter": 1,
+        "verse": 37,
+        "text": "Porque para Deus nada será impossível."
+    },
+    {
+        "book": "João",
+        "chapter": 15,
+        "verse": 5,
+        "text": "Eu sou a videira, vós, as varas; quem está em mim, e eu nele, este dá muito fruto, porque sem mim nada podereis fazer."
+    },
+    {
+        "book": "Tiago",
+        "chapter": 1,
+        "verse": 5,
+        "text": "E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não o lança em rosto; e ser-lhe-á dada."
+    },
+    {
+        "book": "Números",
+        "chapter": 6,
+        "verse": 24,
+        "text": "O SENHOR te abençoe e te guarde;"
+    },
+    {
+        "book": "Deuteronômio",
+        "chapter": 6,
+        "verse": 5,
+        "text": "Amarás, pois, o SENHOR, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu poder."
+    },
+    {
+        "book": "1 João",
+        "chapter": 4,
+        "verse": 7,
+        "text": "Amados, amemo-nos uns aos outros, porque o amor é de Deus; e qualquer que ama é nascido de Deus e conhece a Deus."
+    },
+    {
+        "book": "Salmos",
+        "chapter": 91,
+        "verse": 1,
+        "text": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará."
+    },
+    {
+        "book": "Jeremias",
+        "chapter": 33,
+        "verse": 3,
+        "text": "Clama a mim, e responder-te-ei e anunciar-te-ei coisas grandes e firmes, que não sabes."
+    },
+    {
+        "book": "Esdras",
+        "chapter": 8,
+        "verse": 23,
+        "text": "Assim jejuamos e pedimos isso ao nosso Deus, e ele nos atendeu."
+    },
+    {
+        "book": "Neemias",
+        "chapter": 8,
+        "verse": 10,
+        "text": "Disse-lhes mais: Ide, comei gorduras, e bebei bebidas doces, e enviai porções aos que não têm nada preparado para si; porque este dia é santo para o nosso Senhor; portanto, não vos entristeçais, porque a alegria do SENHOR é a vossa força."
+    },
+    {
+        "book": "Jó",
+        "chapter": 19,
+        "verse": 25,
+        "text": "Porque eu sei que o meu Redentor vive, e por fim se levantará sobre a terra."
+    },
+    {
+        "book": "Salmos",
+        "chapter": 34,
+        "verse": 8,
+        "text": "Provai e vede que o SENHOR é bom; bem-aventurado o homem que nele confia."
+    },
+    {
+        "book": "Provérbios",
+        "chapter": 22,
+        "verse": 6,
+        "text": "Ensina a criança no caminho em que deve andar, e, ainda quando for velho, não se desviará dele."
+    },
+    {
+        "book": "Eclesiastes",
+        "chapter": 3,
+        "verse": 1,
+        "text": "Tudo tem o seu tempo determinado, e há tempo para todo propósito debaixo do céu:"
+    },
+    {
+        "book": "Cântico dos Cânticos",
+        "chapter": 2,
+        "verse": 4,
+        "text": "Levou-me à casa do banquete, e o seu estandarte sobre mim era o amor."
+    },
+    {
+        "book": "Isaías",
+        "chapter": 40,
+        "verse": 31,
+        "text": "Mas os que esperam no SENHOR renovarão as suas forças e subirão com asas como águias; correrão e não se cansarão; caminharão e não se fatigarão."
+    },
+    {
+        "book": "Lamentações",
+        "chapter": 3,
+        "verse": 22,
+        "text": "As misericórdias do SENHOR são a causa de não sermos consumidos, porque as suas misericórdias não têm fim;"
+    },
+    {
+        "book": "Ezequiel",
+        "chapter": 36,
+        "verse": 26,
+        "text": "E vos darei um coração novo e porei dentro de vós um espírito novo; e tirarei o coração de pedra da vossa carne e vos darei um coração de carne."
+    },
+    {
+        "book": "Daniel",
+        "chapter": 2,
+        "verse": 20,
+        "text": "Falou Daniel e disse: Seja bendito o nome de Deus para todo o sempre, porque dele é a sabedoria e a força;"
+    },
+    {
+        "book": "Oseias",
+        "chapter": 6,
+        "verse": 3,
+        "text": "Conheçamos e prossigamos em conhecer ao SENHOR; como a alva, a sua saída é certa; e ele a nós virá como a chuva, como chuva serôdia que rega a terra."
+    },
+    {
+        "book": "Joel",
+        "chapter": 2,
+        "verse": 28,
+        "text": "E há de ser que, depois, derramarei o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão, os vossos velhos terão sonhos, e os vossos jovens terão visões."
+    },
+    {
+        "book": "Amós",
+        "chapter": 5,
+        "verse": 24,
+        "text": "Antes, corra o juízo como as águas, e a justiça, como a torrente impetuosa."
+    },
+    {
+        "book": "Obadias",
+        "chapter": 1,
+        "verse": 15,
+        "text": "Porque o Dia do SENHOR está perto sobre todas as nações; como fizeste, assim se te fará; a tua recompensa cairá sobre a tua cabeça."
+    },
+    {
+        "book": "Jonas",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Mas eu te oferecerei sacrifícios com a voz de ações de graças; o que votei pagarei. Do SENHOR vem a salvação."
+    },
+    {
+        "book": "Miqueias",
+        "chapter": 6,
+        "verse": 8,
+        "text": "Ele te declarou, ó homem, o que é bom e o que o SENHOR pede de ti: que pratiques a justiça, e ames a beneficência, e andes humildemente com o teu Deus."
+    },
+    {
+        "book": "Naum",
+        "chapter": 1,
+        "verse": 7,
+        "text": "O SENHOR é bom, uma fortaleza no dia da angústia, e conhece os que confiam nele."
+    },
+    {
+        "book": "Habacuque",
+        "chapter": 2,
+        "verse": 4,
+        "text": "Eis que a sua alma está orgulhosa, não é reta nele; mas o justo viverá pela sua fé."
+    },
+    {
+        "book": "Sofonias",
+        "chapter": 3,
+        "verse": 17,
+        "text": "O SENHOR, teu Deus, no meio de ti, é poderoso para salvar; ele se deleitará em ti com alegria; calar-se-á por seu amor, regozijar-se-á em ti com cânticos."
+    },
+    {
+        "book": "Ageu",
+        "chapter": 2,
+        "verse": 9,
+        "text": "A glória desta última casa será maior do que a da primeira, diz o SENHOR dos Exércitos, e neste lugar darei a paz, diz o SENHOR dos Exércitos."
+    },
+    {
+        "book": "Zacarias",
+        "chapter": 4,
+        "verse": 6,
+        "text": "E prosseguiu, e falou, e me disse: Esta é a palavra do SENHOR a Zorobabel, dizendo: Não por força, nem por violência, mas pelo meu Espírito, diz o SENHOR dos Exércitos."
+    },
+    {
+        "book": "Malaquias",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e depois fazei prova de mim, diz o SENHOR dos Exércitos, se eu não vos abrir as janelas do céu e não derramar sobre vós uma bênção tal, que dela vos venha a maior abastança."
+    },
+    {
+        "book": "Mateus",
+        "chapter": 5,
+        "verse": 14,
+        "text": "Vós sois a luz do mundo; não se pode esconder uma cidade edificada sobre um monte;"
+    },
+    {
+        "book": "Marcos",
+        "chapter": 16,
+        "verse": 15,
+        "text": "E disse-lhes: Ide por todo o mundo, pregai o evangelho a toda criatura."
+    },
+    {
+        "book": "Lucas",
+        "chapter": 6,
+        "verse": 31,
+        "text": "E como vós quereis que os homens vos façam, da mesma maneira fazei-les vós também."
+    },
+    {
+        "book": "João",
+        "chapter": 1,
+        "verse": 1,
+        "text": "No princípio, era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+    },
+    {
+        "book": "Atos",
+        "chapter": 2,
+        "verse": 38,
+        "text": "E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para perdão dos pecados, e recebereis o dom do Espírito Santo."
+    },
+    {
+        "book": "Romanos",
+        "chapter": 5,
+        "verse": 8,
+        "text": "Mas Deus prova o seu amor para conosco em que Cristo morreu por nós, sendo nós ainda pecadores."
+    },
+    {
+        "book": "1 Coríntios",
+        "chapter": 10,
+        "verse": 13,
+        "text": "Não vos sobreveio tentação que não fosse humana; mas fiel é Deus, que vos não deixará tentar acima do que podeis, antes, com a tentação dará também o escape, para que a possais suportar."
+    },
+    {
+        "book": "2 Coríntios",
+        "chapter": 9,
+        "verse": 7,
+        "text": "Cada um contribua segundo propôs no seu coração, não com tristeza ou por necessidade; porque Deus ama ao que dá com alegria."
+    },
+    {
+        "book": "Efésios",
+        "chapter": 6,
+        "verse": 10,
+        "text": "No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder."
+    },
+    {
+        "book": "Filipenses",
+        "chapter": 2,
+        "verse": 3,
+        "text": "Nada façais por partidarismo ou por vanglória, mas, com humildade, considere cada um os outros superiores a si mesmo."
+    },
+    {
+        "book": "Colossenses",
+        "chapter": 3,
+        "verse": 23,
+        "text": "E, tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor e não aos homens,"
+    },
+    {
+        "book": "1 Tessalonicenses",
+        "chapter": 5,
+        "verse": 16,
+        "text": "Regozijai-vos sempre."
+    },
+    {
+        "book": "2 Tessalonicenses",
+        "chapter": 3,
+        "verse": 3,
+        "text": "Mas fiel é o Senhor, que vos confortará e guardará do maligno."
+    },
+    {
+        "book": "1 Timóteo",
+        "chapter": 6,
+        "verse": 12,
+        "text": "Milita a boa milícia da fé, toma posse da vida eterna, para a qual também foste chamado, tendo feito boa confissão diante de muitas testemunhas."
+    },
+    {
+        "book": "Tito",
+        "chapter": 2,
+        "verse": 11,
+        "text": "Porque a graça de Deus, que traz salvação, se manifestou a todos os homens,"
+    },
+    {
+        "book": "Filemom",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Para que a comunicação da tua fé seja eficaz no conhecimento de todo o bem que em vós há, por Cristo Jesus."
+    },
+    {
+        "book": "Hebreus",
+        "chapter": 12,
+        "verse": 2,
+        "text": "Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus."
+    },
+    {
+        "book": "Tiago",
+        "chapter": 2,
+        "verse": 17,
+        "text": "Assim também a fé, se não tiver as obras, é morta em si mesma."
+    },
+    {
+        "book": "2 Pedro",
+        "chapter": 3,
+        "verse": 9,
+        "text": "O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia; mas é longânimo para convosco, não querendo que alguns se percam, senão que todos venham a arrepender-se."
+    },
+    {
+        "book": "1 João",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça."
+    },
+    {
+        "book": "Judas",
+        "chapter": 1,
+        "verse": 24,
+        "text": "Ora, àquele que é poderoso para vos guardar de cair e apresentar-vos irrepreensíveis, com alegria, perante a sua glória,"
+    },
+    {
+        "book": "Apocalipse",
+        "chapter": 3,
+        "verse": 20,
+        "text": "Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e com ele cearei, e ele, comigo."
+    },
+    {
+        "book": "Gênesis",
+        "chapter": 28,
+        "verse": 15,
+        "text": "E eis que estou contigo, e te guardarei por onde quer que fores, e te farei tornar a esta terra; porque te não deixarei, até que te haja feito o que te tenho falado."
+    },
+    {
+        "book": "Êxodo",
+        "chapter": 14,
+        "verse": 14,
+        "text": "O SENHOR pelejará por vós, e vós vos calareis."
+    },
+    {
+        "book": "Levítico",
+        "chapter": 19,
+        "verse": 18,
+        "text": "Não te vingarás, nem guardarás ira contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo. Eu sou o SENHOR."
+    },
+    {
+        "book": "Números",
+        "chapter": 23,
+        "verse": 19,
+        "text": "Deus não é homem para que minta, nem filho de homem para que se arrependa; porventura, diria ele e não o faria? Ou falaria e não o confirmaria?"
+    },
+    {
+        "book": "Deuteronômio",
+        "chapter": 31,
+        "verse": 6,
+        "text": "Esforçai-vos, e animai-vos; não temais, nem vos espanteis diante deles, porque o SENHOR, vosso Deus, é o que vai convosco; não vos deixará, nem vos desamparará."
+    },
+    {
+        "book": "Josué",
+        "chapter": 24,
+        "verse": 15,
+        "text": "Porém, se vos parece mal servir ao SENHOR, escolhei, hoje, a quem sirvais: se aos deuses a quem serviram vossos pais, que estavam dalém do rio, ou aos deuses dos amorreus, em cuja terra habitais; mas eu e a minha casa serviremos ao SENHOR."
+    },
+    {
+        "book": "Juízes",
+        "chapter": 6,
+        "verse": 12,
+        "text": "Então, o Anjo do SENHOR lhe apareceu e lhe disse: O SENHOR é contigo, varão valoroso."
+    },
+    {
+        "book": "Rute",
+        "chapter": 1,
+        "verse": 16,
+        "text": "Disse, porém, Rute: Não me instes para que te deixe e me afaste de ti; porque, aonde quer que fores, irei eu e, onde quer que pousares, ali pousarei eu; o teu povo é o meu povo, o teu Deus é o meu Deus."
+    },
+    {
+        "book": "1 Samuel",
+        "chapter": 16,
+        "verse": 7,
+        "text": "Porém o SENHOR disse a Samuel: Não atentes para a sua aparência nem para a sua altura, porque o rejeitei; porque o SENHOR não vê como vê o homem. O homem vê o exterior, porém o SENHOR, o coração."
+    }
+]
